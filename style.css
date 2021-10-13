@@ -1,0 +1,29 @@
+body {
+  padding: 100px;
+}
+.submit-area {
+  margin-top: 50px;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
+}
+#transaction-area {
+  display: none;
+}
+.cat1 {
+  background-image: linear-gradient(190deg, green, blue);
+}
+.cat2 {
+  background-image: linear-gradient(180deg, yellow, green);
+}
+.cat3 {
+  background-image: linear-gradient(180deg, orange, indianred);
+}
+.cat1,
+.cat2,
+.cat3 {
+  padding: 10px 20px;
+  color: white;
+  margin: 0px 20px;
+  border-radius: 10px;
+}
